@@ -222,7 +222,8 @@ export default function Home() {
             }}
           >
             <h2 className="text-3xl md:text-5xl font-light tracking-tighter text-center max-w-3xl">
-              I&apos;m sorry my clinginess level was set to "koala bear" mode.
+              I&apos;m sorry my clinginess level was set to &quot;koala
+              bear&quot; mode.
             </h2>
           </motion.div>
 
