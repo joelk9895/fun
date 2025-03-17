@@ -222,7 +222,7 @@ export default function Home() {
             }}
           >
             <h2 className="text-3xl md:text-5xl font-light tracking-tighter text-center max-w-3xl">
-              I'm sorry my clinginess level was set to "koala bear" mode.
+              I&apos;m sorry my clinginess level was set to "koala bear" mode.
             </h2>
           </motion.div>
 
@@ -270,7 +270,7 @@ export default function Home() {
             }}
           >
             <h3 className="text-2xl md:text-3xl font-medium text-center px-6 relative">
-              I've been thinking about our friendship...
+              I&apos;ve been thinking about our friendship...
               <br />
               <span className="text-xs md:text-2xl right-0.5 rotate-3 font-light text-gray-600 mt-4 block absolute -top-10">
                 (And my complete lack of rizz in handling it)
@@ -305,7 +305,7 @@ export default function Home() {
                     transition: { duration: 0.5 },
                   }}
                 >
-                  Fine, you're forgiven
+                  Fine, you&apos;re forgiven
                 </motion.button>
                 <motion.button
                   className="text-white text-base md:text-xl px-3 py-2 rounded-lg bg-black transition-all duration-300 ease-in-out"
